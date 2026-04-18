@@ -1,0 +1,12 @@
+{
+  "name": "nanoclaw",
+  "version": "2.0.0-alpha.1",
+  "description": "NanoClaw as a Claude Code plugin — message channels, memory, scheduled tasks, driven by /loop.",
+  "author": "NanoClaw contributors",
+  "license": "MIT",
+  "homepage": "https://github.com/nanoclaw/nanoclaw",
+  "commands": "./commands",
+  "agents": "./agents",
+  "skills": "./skills",
+  "hooks": "./hooks.json"
+}
